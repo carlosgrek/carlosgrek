@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Carlos Grék
+- 👋 Hi, I’m Carlos Grék.
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Java, PosgreSQL, HTML, CSS, and Linux.
+- 🌱 I’m currently learning Java, JavaScript, PosgreSQL, HTML, CSS, and Linux.
 - 📫 You can reach me through grekcarlos@gmail.com
 
 <!---
