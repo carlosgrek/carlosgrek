@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos Grék.
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Java, JavaScript, PosgreSQL, HTML, CSS, and Linux.
-- 📫 You can reach me through grekcarlos@gmail.com
+- 🌱 I’m currently learning Java, JavaScript, PosgreSQL, C, HTML, CSS, and Linux.
+- 📫 You can reach me through grekcarlos@gmail.com.
 
 <!---
 carlosgrek/carlosgrek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
